@@ -1,2 +1,2 @@
-# python_basic_review
-python basic 복습 및 정리
+# python_review
+python 복습 및 정리
