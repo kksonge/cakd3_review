@@ -1,2 +1,2 @@
-# python_review
-python 복습 및 정리
+# cakd3_review
+cakd3 강의 내용 복습 및 보완
